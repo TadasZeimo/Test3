@@ -1,53 +1,53 @@
-body{
-    display: flex;
-    justify-content: center;
+body {
+  display: flex;
+  justify-content: center;
 }
-div{
-    margin: 4%;
-    height: 800px;
-    width: 1200px;
-    border: 2px black solid;
-    background-image: url(img/dykuma.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+div {
+  margin: 4%;
+  height: 800px;
+  width: 1200px;
+  border: 2px black solid;
+  background-image: url(img/dykuma.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-h1{
-text-align: center;
+h1 {
+  text-align: center;
 }
-nav{
-margin-bottom: 90px;
-padding: 40px;
-padding-top: 30px;
-    height: 450px;
-    width: 600px;
-    /* border: 2px black solid; */
-    background: #d7d7c1;
-    display: flex;
-    flex-direction: column;
+nav {
+  margin-bottom: 90px;
+  padding: 40px;
+  padding-top: 30px;
+  height: 450px;
+  width: 600px;
+  /* border: 2px black solid; */
+  background: #d7d7c1;
+  display: flex;
+  flex-direction: column;
 }
-input{
-    outline: none;
-    border-style: hidden;
-    border-bottom: groove;
-    background: #d7d7c1;
-    border-color: #97979b;
+input {
+  outline: none;
+  border-style: hidden;
+  border-bottom: groove;
+  background: #d7d7c1;
+  border-color: #97979b;
 }
-textarea{
-    outline: none;
-    border-style: hidden;
-    border-bottom: groove;
-    background: #d7d7c1;
-    border-color: #97979b;
+textarea {
+  outline: none;
+  border-style: hidden;
+  border-bottom: groove;
+  background: #d7d7c1;
+  border-color: #97979b;
 }
-button{
-    height: 30px;
-    width: 150px;
-    background-color: #4b4b4e;
-    color: white;
+button {
+  height: 30px;
+  width: 150px;
+  background-color: #4b4b4e;
+  color: white;
 }
-b{
-    font-weight: normal;
+b {
+  font-weight: normal;
 }
