@@ -15,12 +15,27 @@ div{
     justify-content: center;
 }
 nav{
-margin-bottom: 100px;
+margin-bottom: 90px;
 padding: 20px;
-    height: 600px;
+padding-top: 30px;
+    height: 450px;
     width: 600px;
-    border: 2px black solid;
+    /* border: 2px black solid; */
     background: #d7d7c1;
     display: flex;
     flex-direction: column;
+}
+input{
+    outline: none;
+    border-style: hidden;
+    border-bottom: groove;
+    background: #d7d7c1;
+    border-color: #97979b;
+}
+textarea{
+    outline: none;
+    border-style: hidden;
+    border-bottom: groove;
+    background: #d7d7c1;
+    border-color: #97979b;
 }
